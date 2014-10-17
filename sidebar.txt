@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gri:home|Door43 (gri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gri|d43-gri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gri/archive/master.zip|d43-gri.zip]]
+
+**Recent Changes**
+{{changes>ns = gri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gri|Ethnologue data]]
+
